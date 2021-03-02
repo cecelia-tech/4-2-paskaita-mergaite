@@ -4,7 +4,10 @@ MANO PIRMAS PROJEKTAS
 
 ## key features
 
-- pirmas
+- HTML
+- CSS
+- relative paths
+- Github pages
 
 ## link
 
