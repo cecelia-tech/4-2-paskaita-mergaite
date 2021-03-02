@@ -1,18 +1,27 @@
 # 4-2-paskaita-mergaite
 
-MANO PIRMAS PROJEKTAS
+![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
+![Security Status](https://img.shields.io/security-headers?label=Security&url=https%3A%2F%2Fgithub.com&style=flat-square)
+![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
+![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 
-## key features
+# Mergaite
+
+_25 group website project_
+
+This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!
+
+Site published at https://cecelia-tech.github.io/4-2-paskaita-mergaite/
+
+Design: [Mergaite](https://cdn.discordapp.com/attachments/648536139677958156/648860692459290634/unknown.png)
+
+## Project features
 
 - HTML
 - CSS
-- relative paths
+- Relative paths
 - Github pages
 
-## link
+## Authors
 
-https://cecelia-tech.github.io/4-2-paskaita-mergaite/
-
-## author
-
-Vita [Github](https://cecelia-tech.github.io/4-2-paskaita-mergaite/)
+Vita
