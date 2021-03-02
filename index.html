@@ -5,6 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mergaite 404</title>
+    <link rel="shortcut icon" href="./favicon.png" type="image/png">
+    <link rel="import" href="component.html">
     <style>
         body{
             background-color: #f8f8f8;
@@ -30,21 +32,20 @@
             float: left;
             
         }
-        nav{
+        header>nav{
             float: right;
-            
+            display: inline-block;
             margin-top: 15px;
         }
         a{
+            color: slategray;
             line-height: 20px;
             font-size: 18px;
             float: left;
             text-decoration: none;
             text-transform: capitalize;
             font-family: Arial, Helvetica, sans-serif;
-            margin-right: 25px;
-            color: slategray;
-            
+            margin-left: 25px;
         }
         section{
             display: inline-block;
@@ -62,14 +63,14 @@
             display: inline-block;
             width: 100%;
             font-size: 90px;
-            margin: 0% 0%;
+            margin: 0%;
             
         }
         p{
             display: inline-block;
             width: 100%;
             font-size: 25px;
-            margin: 0% 0%;
+            margin: 0%;
             
         }
         section>img{
@@ -101,6 +102,12 @@
             </div>
             <img src="./mergaitelogo2 copy.png" alt="Mergaite">
         </section>
+
+        <nav> <p style="line-height: 100px; font-size: 18px; background-color: tomato;">Lorem ipsum dolor sit amet.</p>
+        </nav>
+        <nav style="height: 100px; display: inline;">
+            <p style="text-align: center;">Lorem ipsum dolor sit amet.</p>
+        </nav>
     </main>
 </body>
 </html>
